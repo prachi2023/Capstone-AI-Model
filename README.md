@@ -13,7 +13,7 @@ The aim of this project was to create an Augmented Reality Laser Tag Game. Each 
 6. Tuning Hyperparameters: Number of Layers, Nodes, Features to use, Window Size, Batch Size
 
 
-*Implementation*
+*Implementation* \
 To increase the speed and efficiency. The model is implemented on an Ultra96 FPGA. The model is written in C++ and using Vitis HLS, we extract the IP layer. 
 
 Through Vivado we created the following block diagram and generated the final bitstream.\
